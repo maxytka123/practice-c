@@ -1,0 +1,71 @@
+.lion{
+    background-image: url(lion2.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0;
+    width: 100vw; height: 600px;
+    background-color: rgb(245, 135, 0);    
+}
+.tigr{
+    background-image: url(tigr2.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 105vw; height:850px;    
+    background-color: rgba(214, 214, 214, 0.849);  
+    
+}
+.elephant{
+    background-image: url(elephant2.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100vw; height: 1100px;
+    background-color: rgba(128, 127, 126, 0.521);  
+}
+.cheetah{
+    background-image: url(cheetah2.webp);
+    background-repeat: no-repeat;   
+    background-position: right;
+    margin: 0;
+    width: 100vw; height: 550px;
+    background-color: rgb(249,215, 28);  
+}
+.zebra{
+    background-image: url(zebra2.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0;
+    width: 100vw; height: 450px;
+    background-color: rgb(73, 150, 80); 
+}
+.giraffe{
+    background-image: url(gifaffe2.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0;
+    width: 100vw; height: 630px;
+    background-color: rgb(230, 186, 44);  
+}
+.lion-text{
+color: rgb(12, 21, 134);
+font-size: 30px;
+}
+.tigr-text{
+color: brown;
+font-size: 30px;
+}
+.elephant-text{
+color: black;
+font-size: 30px;
+}
+.cheetah-text{
+color: grey;
+font-size: 30px;
+}
+.zebra-text{
+color: rgb(38, 7, 87);
+font-size: 30px;
+}
+.giraffe-text{
+color: rgb(62, 20, 66);
+font-size: 30px;
+}
